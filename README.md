@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shubhsonidev
 - 👀 I’m interested in making websites, web apps, and mobile apps.
-- 🌱 I’m currently learning advanced JavaScript frameworks like React and Angular.js.
+- 🌱 I’m currently learning advanced JavaScript frameworks like React, Angular.js, Express.js.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web development challenges.
 - 📫 How to reach me: You can email me at shubhsoni.dev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/shubh-soni-7b8590225/)
-- 😄 Pronouns: He/Him 
