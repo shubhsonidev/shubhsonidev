@@ -1,5 +1,33 @@
-- 👋 Hi, I’m @shubhsonidev
-- 👀 I’m interested in making websites, web apps, and mobile apps.
-- 🌱 I’m currently learning advanced JavaScript frameworks like React, Angular.js, Express.js.
-- 💞️ I’m looking to collaborate on open-source projects and innovative web development challenges.
-- 📫 How to reach me: You can email me at shubhsoni.dev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/shubh-soni-7b8590225/)
+# Hello, I'm Shubh! 👋
+
+### 🚀 Full-Stack Developer | 💻 Angular | React | Node.js | MongoDB | Express.js
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Creative+Problem+Solver;Frontend:+Angular%2C+React;Backend:+Node.js%2C+MongoDB)](https://git.io/typing-svg)
+
+---
+
+### ✨ About Me
+
+- 🌟 **Full-Stack Developer** passionate about **solving real-life problems** through technology.
+- 🎯 Currently working on **Gappe Maro**, a real-time chat application with modern authentication features.
+- 🌱 Continuously learning new technologies, frameworks, and design patterns to deliver optimal solutions.
+- 🎧 I enjoy listening to music and exploring tech solutions to simplify everyday tasks.
+
+---
+
+### 💻 Tech Stack
+- **Frontend**: Angular, React, HTML5, CSS3, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Tools**: Prettier, JSDoc, Git, Netlify, Vercel
+
+---
+
+### 🔗 Links & Connect
+- [GitHub Profile](https://github.com/shubhsonidev)  
+- [Email](mailto:your-email@shubhsoni.dev@gmail.com)  
+- [LinkedIn Profile](https://www.linkedin.com/in/shubh-soni-7b8590225/)  
+
+
