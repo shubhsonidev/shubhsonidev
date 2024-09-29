@@ -11,7 +11,6 @@
 ### ✨ About Me
 
 - 🌟 **Full-Stack Developer** passionate about **solving real-life problems** through technology.
-- 🎯 Currently working on **Gappe Maro**, a real-time chat application with modern authentication features.
 - 🌱 Continuously learning new technologies, frameworks, and design patterns to deliver optimal solutions.
 - 🎧 I enjoy listening to music and exploring tech solutions to simplify everyday tasks.
 
