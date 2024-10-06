@@ -25,7 +25,6 @@
 ---
 
 ### 🔗 Links & Connect
-- [GitHub Profile](https://github.com/shubhsonidev)  
 - [Email](mailto:your-email@shubhsoni.dev@gmail.com)  
 - [LinkedIn Profile](https://www.linkedin.com/in/shubh-soni-7b8590225/)  
 
